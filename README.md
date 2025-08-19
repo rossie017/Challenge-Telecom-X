@@ -1,2 +1,21 @@
-# Challenge-Telecom-X
-Analizar datos proporcionados para identificar las razones detrás de la evasión y preparar los datos para el equipo de ciencia de datos.
+# 📊 TelecomX - Análisis de Evasión de Clientes (Churn)
+
+## 📌 Descripción
+Este proyecto analiza los datos de clientes de **TelecomX** con el objetivo de **entender las causas de la evasión de clientes (churn)** y proponer estrategias para mejorar la retención.  
+
+Incluye:
+- Limpieza y transformación de datos.
+- Creación de variables derivadas.
+- Análisis descriptivo y exploratorio.
+- Visualización de patrones de churn.
+- Conclusiones y recomendaciones estratégicas.
+
+---
+
+## 🛠️ Tecnologías utilizadas
+- **Python 3.11**
+- **Pandas** (manejo de datos)
+- **Matplotlib** y **Seaborn** (visualizaciones)
+- **Jupyter Notebook** (documentación y análisis)
+
+---
